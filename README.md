@@ -7,6 +7,6 @@ This project presents the design and implementation of a relational database for
  Mapping.pdf → Entity-to-table mapping explanation
  Normalization.pdf → Step-by-step normalization (1NF → 2NF → 3NF)
 ## 📸 Entity Relationship Diagram
-![ERD](./ERD.png)
+![ERD](ERD.jpg)
 
 
